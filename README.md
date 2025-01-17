@@ -1,6 +1,7 @@
 # Wuzzuf Job Scraper 🕷️
 
-This project is a **Wuzzuf Job Scraper** built using **Tkinter** for the GUI and **BeautifulSoup** for web scraping. It allows users to scrape job listings from **Wuzzuf.net** and save them to a CSV file. The project was inspired by tutorials from **Python Simplified** (Tkinter and PyInstaller) and **Codezilla** (web scraping and libraries). 
+This project is a **Wuzzuf Job Scraper** built using **Tkinter** for the GUI and **BeautifulSoup** for web scraping. It allows users to scrape job listings from **Wuzzuf.net** and save them to a CSV file. 
+The project was inspired by tutorials from **Python Simplified** (Tkinter and PyInstaller) and **Codezilla** (web scraping and libraries). 
 
 I developed this project independently and even created a **guide video** to help others learn from it. You can also download the **Program Installation EXE** to use the scraper without setting up the code.
 
@@ -56,7 +57,15 @@ Pagination: The scraper stops when it reaches the end of the job listings, but i
 File Name: Using space while naming the file will cause the program to not work.
 
 Why did I make this? 🤷‍♂️
-This project was inspired by tutorials from Python Simplified (who taught me Tkinter and PyInstaller) and Codezilla (who taught me web scraping and libraries). I wanted to create a tool that could automate job scraping and make it easier for others to analyze job market trends. I developed this project independently and even created a guide video to share my knowledge.
+This project was inspired by tutorials from Python Simplified (who taught me Tkinter and PyInstaller) and Codezilla (who taught me web scraping and libraries). 
+I wanted to create a tool that could automate job scraping and make it easier for others to analyze job market trends. I developed this project independently and even created a guide video to share my knowledge.
 
-Why did I make this? 🤷‍♂️
-This project was inspired by tutorials from Python Simplified (who taught me Tkinter and PyInstaller) and Codezilla (who taught me web scraping and libraries). I wanted to create a tool that could automate job scraping and make it easier for others to analyze job market trends. I developed this project independently and even created a guide video to share my knowledge.
+Wanna help? 🙏
+If you find any issues or have suggestions for improvement, feel free to:
+Open an issue
+Submit a pull request
+
+Star the repo (if you found it useful! ⭐)
+
+License 📜
+This project is licensed under the MIT License. Feel free to use and modify it as you like.
