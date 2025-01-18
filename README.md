@@ -66,6 +66,3 @@ Open an issue
 Submit a pull request
 
 Star the repo (if you found it useful! ⭐)
-
-License 📜
-This project is licensed under the MIT License. Feel free to use and modify it as you like.
